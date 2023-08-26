@@ -1,5 +1,5 @@
 //fetch
-fetch("http://127.0.0.1:5500/database/user.json")
+fetch("https://github.com/Moh20All/Json-server/blob/main/database/user.json")
     .then(res=>res.json())
     .then(data=> {
       data.forEach(ele => {
