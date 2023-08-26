@@ -1,9 +1,38 @@
-{
-    "Name":"Allali",
-    "lastName":"Mohamed",
-    "email":"lotfialllali222@gmail.com",
-    "Gemder":"Male",
-    "avatar":"https://png.pngtree.com/png-vector/20191101/ourmid/pngtree-cartoon-color-simple-male-avatar-png-image_1934459.jpg",
-    "job":"Full stack Dev",
-    "Busy":"TRUE"
-}
+[
+    {
+        "Name":"Allali",
+        "lastName":"Mohamed",
+        "email":"lotfialllali222@gmail.com",
+        "Gender":"Male",
+        "avatar":"https://e3.365dm.com/18/03/768x432/skynews-tony-soprano-james-gandolfini_4253599.jpg?20190110140558",
+        "job":"Full stack Dev",
+        "Busy":{
+            "online":true,
+            "LastSeen":null
+        }
+    },
+    {
+        "Name":"Allali",
+        "lastName":"siradj",
+        "email":"siradjall2006@gmail.com",
+        "Gender":"Male",
+        "avatar":"https://scontent.falg7-2.fna.fbcdn.net/v/t1.6435-9/71120602_973856089673856_7122514188747931648_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=UXcs1ozlsgkAX_e9QB8&_nc_ht=scontent.falg7-2.fna&oh=00_AfAuYu6Ui9CfLcyD6nVUSX3AjkMIgYyfmAhG4w-_7gQcyg&oe=6511A53F",
+        "job":"Univ-student",
+        "Busy":{
+            "online":false,
+            "LastSeen":"15min"
+        }
+    },
+    {
+        "Name":"Allali",
+        "lastName":"Amdjed",
+        "email":"amdjedall@gmail.com",
+        "Gender":"Male",
+        "avatar":"https://scontent.falg7-1.fna.fbcdn.net/v/t39.30808-6/337660412_786203199108694_19514697532594688_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=uJbGPTj7GYEAX_d0G1i&_nc_ht=scontent.falg7-1.fna&oh=00_AfDJ10XaBt0lpwZkPSHz7-YskwdnsvQoG0xUe2V9gabDBw&oe=64EFD5EC",
+        "job":"High School st",
+        "Busy":{
+            "online":true,
+            "LastSeen":null
+        }
+    }
+]
